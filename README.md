@@ -41,6 +41,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Peebles Jerkin Pintucan - [PeebsTech](https://twitter.com/PeebsTech) - kinpintucan@gmail.com - [LinkedIn](https://www.linkedin.com/in/pintucan-pj/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Peebs-Tech/Computer-Vision---Food101)
+Project Link: [Computer Vision using Transfer Learning](https://github.com/Peebs-Tech/Computer-Vision---Food101)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
