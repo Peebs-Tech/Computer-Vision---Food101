@@ -1,4 +1,4 @@
-# Computer-Vision---Food101
+# Computer-Vision---Food Classfication
 Computer Vision using Transfer Learning-EfficientNetBx for Food101 Dataset (**83.66% accuracy**)
 
 
@@ -27,13 +27,6 @@ Trying to beat the [DeepFood](https://www.researchgate.net/publication/304163308
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
