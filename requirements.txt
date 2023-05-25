@@ -1,0 +1,6 @@
+scikit-learn
+tensorflow == 2.9.1
+pandas
+numpy
+matplotlib
+keras
